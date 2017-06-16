@@ -195,15 +195,14 @@ class Ticket extends CI_Controller {
                   }
                   else
                   {
-                    $excel[$count] = $data_value;
+                    $excel[$count] = $data_value; 
                     if ($count < 39) 
                     {
                         $count = $count + 1;
                         if ($column == 'AM'){
                         $this->load->model('Ticket_model');
                         if($this->Ticket_model->checkPrimary($excel[0])){
-                          echo "aaaa";
-                          if($this->Ticket_model->addTicketByFile($excel[0],$excel[1],$excel[2],$excel[16],$excel[20],$excel[14],$excel[21],$excel[30],$excel[31],$excel[38],$excel[36],$excel[33],$excel[12],$excel[17])){
+                          if($this->Ticket_model->addTicketByFile($excel[0],str_replace("'", "", $excel[1]),$excel[2],$excel[16],$excel[20],$excel[14],$excel[21],$excel[30],$excel[31],$excel[38],$excel[36],$excel[33],$excel[12],$excel[17])){
                             $jumlah = $jumlah + 1;
                           }
                         }

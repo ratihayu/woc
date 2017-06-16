@@ -83,8 +83,8 @@ class Ticket_model extends CI_Model
         }
     }
 
-    public function update($id, $closed_date, $closed_by, $hd, $status, $keterangan_closed){
-    	$sql = "UPDATE TICKET SET CLOSED_DATE='$closed_date', CLOSED_BY='$closed_by', HD='$hd', STATUS='$status', KETERANGAN_CLOSED='$keterangan_closed'";
+    public function update($id, $closed_date, $closed_by, $hd, $status, $keterangan_closed, $keterangan_pending){
+    	$sql = "UPDATE TICKET SET CLOSED_DATE='$closed_date', CLOSED_BY='$closed_by', HD='$hd', STATUS='$status', KETERANGAN_CLOSED='$keterangan_closed', KETERANGAN_PENDING='$keterangan_pending'";
 
     	return $this->db->query($sql);
 	}
