@@ -14,7 +14,34 @@ class Bot extends CI_Controller {
     public function index()
     {
         // sendCommand("sendCommand", $token, $data);
+        $this->TestCommand();
         $this->getUpdates();
+    }
+
+    namespace Longman\TelegramBot\Commands\UserCommands;
+
+    use Longman\TelegramBot\Commands\UserCommand;
+    use Longman\TelegramBot\Request;
+
+    class TestCommand extends UserCommand
+    {
+        protected $name = 'start';                      // Your command's name
+        protected $description = 'A command for start'; // Your command description
+        protected $usage = '/start';                    // Usage of your command
+        protected $version = '1.0.0';                  // Version of your command
+
+        public function execute()
+        {
+            $message = $this->getMessage();           // Get Message object
+
+            $chat_id = $message->getChat()->getId();  // Get the current Chat ID
+
+            $data = [];                               // Set up the new message data
+            $data['chat_id'] = $chat_id;              // Set Chat ID to send the message to
+            $data['text'] = 'INxxx/STATUS/KETERANGAN'; // Set message to send
+
+            return Request::sendMessage($data);       // Send message!
+        }
     }
 
     // public function sendCommand($command,$token,array $keterangan=null{
@@ -43,13 +70,12 @@ class Bot extends CI_Controller {
             $date = $keterangan["message"]["date"];
             $pisah = explode("/",$message);
             $id_incident = strtoupper($pisah[0]);
-            $customer_name = $pisah[1];
-            $status = strtoupper($pisah[2]);
-            $keterangan = $pisah[3];
+            $status = strtoupper($pisah[1]);
+            $keterangan = $pisah[2];
 
             $checkCommand = substr($message,0,2);
             if ($checkCommand != "IN") {
-                $warning = "Format pesan salah, coba lagi dengan format INxxx/NAMA CUSTOMER/STATUS(PENDING ATAU CLOSED)/KETERANGAN CLOSED ATAU PENDING";
+                $warning = "Format pesan salah, coba lagi dengan format INxxx/STATUS(PENDING ATAU CLOSED)/KETERANGAN CLOSED ATAU PENDING";
                 $sendCommand = file_get_contents($url."sendmessage?chat_id=".$user_id."&text=".$checkCommand."&reply_to_message_id=".$message_id);
                 json_decode($sendCommand, TRUE);
             }
