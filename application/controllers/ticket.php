@@ -81,7 +81,7 @@ class Ticket extends CI_Controller {
         if($this->Ticket_model->updateClosedByHD($id, $status, $ketclosed, $ketpending, $hd, $tglclosed)){
           echo '<script language="javascript">';
           echo 'alert("Status ticket berhasil diupdate");';
-          // echo 'window.location.href = "' . site_url('Ticket/showAllTicket/4') . '";';
+          echo 'window.location.href = "' . site_url('Ticket/showAllTicket/4') . '";';
           echo '</script>';
         }
         else{
@@ -95,7 +95,7 @@ class Ticket extends CI_Controller {
         if($this->Ticket_model->updateByHD($id, $status, $ketclosed, $ketpending, $hd)){
           echo '<script language="javascript">';
           echo 'alert("Status ticket berhasil diupdate");'; 
-          // echo 'window.location.href = "' . site_url('Ticket/showAllTicket/4') . '";';
+          echo 'window.location.href = "' . site_url('Ticket/showAllTicket/4') . '";';
           echo '</script>';
         }
         else{
