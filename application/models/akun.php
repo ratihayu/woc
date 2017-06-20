@@ -35,6 +35,11 @@ class Akun extends CI_Model
 		return $q->row()->OTORITAS;
 	}
 	
+	public function get_id($username){
+		$q = $this->db->get_where('akun', array('username' => $username));
+		return $q->row()->ID_AKUN;
+	}
+
 	public function tambahUser($username, $data){
 		$result = $this->db->get_where('akun',
 			array

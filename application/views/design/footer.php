@@ -186,35 +186,7 @@
         });
       });
     </script>
-    <script language="javascript">
-    function batal()
-    {
-       document.getElementById('awal').style.display='block';
-       document.getElementById('editkan').style.display='none';
-       document.getElementById('status').value="lama";
-    }
 
-    function edit_tanggal()
-    {
-       document.getElementById('awal').style.display='none';
-       document.getElementById('editkan').style.display='block';
-       document.getElementById('status').value="baru";
-    }
-
-    function showJanji()
-    {
-       document.getElementById('janji').style.display='block';
-       document.getElementById('noJanji').style.display='none';
-       document.getElementById('status').value="janji";
-    }
-
-    function hideJanji()
-    {
-       document.getElementById('janji').style.display='none';
-       document.getElementById('noJanji').style.display='block';
-       document.getElementById('status').value="";
-    }
-    </script>
     <script type="text/javascript">
         $(function () {
             $('#datetimepicker12').datetimepicker({

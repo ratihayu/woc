@@ -67,6 +67,7 @@ function deldata() {
                   <th style="background-color:#FACC2E!important">NO SERVICE</th>
                   <th style="background-color:#FACC2E!important">DATEK</th>
                   <th style="background-color:#FACC2E!important">KETERANGAN CLOSED</th>
+                  <th style="background-color:#FACC2E!important">KETERANGAN PENDING</th>
                 </tr>
               </thead>
               <tbody>
@@ -90,14 +91,15 @@ function deldata() {
                     <td><?php echo $row->TTR_SEGMENT; ?></td>
                     <td><?php echo $row->FILTER; ?></td>
                     <td><?php if ($row->CLOSED_DATE == '0000-00-00') {echo '-';} else {echo $row->CLOSED_DATE;}  ?></td>
-                    <td><?php echo $row->CLOSED_BY; ?></td>
-                    <td><?php echo $row->HD; ?></td>
+                    <td><?php echo $row->NAMA_TEKNISI; ?></td>
+                    <td><?php echo $row->NAMA_LENGKAP; ?></td>
                     <td><?php echo $row->ACTUAL_SOLUTION; ?></td>
                     <td><?php echo $row->KETERANGAN_KENDALA; ?></td>
                     <td><?php echo $row->WORKZONE; ?></td>
                     <td><?php echo $row->NO_SERVICE; ?></td>
                     <td><?php echo $row->DATEK; ?></td>
                     <td><?php echo $row->KETERANGAN_CLOSED; ?></td>
+                    <td><?php echo $row->KETERANGAN_PENDING; ?></td>
                   </tr>
                   <?php
                   }
@@ -125,6 +127,7 @@ function deldata() {
                   <th style="background-color:#FACC2E!important">NO SERVICE</th>
                   <th style="background-color:#FACC2E!important">DATEK</th>
                   <th style="background-color:#FACC2E!important">KETERANGAN CLOSED</th>
+                  <th style="background-color:#FACC2E!important">KETERANGAN PENDING</th>
                 </tr>
               </tfoot>
             </table>

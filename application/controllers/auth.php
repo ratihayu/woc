@@ -56,7 +56,8 @@ class Auth extends CI_Controller {
         {
             $nama = $this->akun->get_name($username);
             $otoritas = $this->akun->get_otoritas($username);
-            $data = array('username' => $username, 'login' => TRUE, 'nama_lengkap' => $nama, 'otoritas' => $otoritas);
+            $id_akun = $this->akun->get_id($username);
+            $data = array('username' => $username, 'login' => TRUE, 'nama_lengkap' => $nama, 'otoritas' => $otoritas, 'id_akun' => $id_akun);
             $this->session->set_userdata($data);
             if($ref != '' || !empty($ref))
             {

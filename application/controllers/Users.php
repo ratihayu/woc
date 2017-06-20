@@ -104,11 +104,13 @@ class Users extends CI_Controller{
         }
     }
 
-    function header(){
+    function header()
+    {
       $data = array(
             'nama' => $this->session->userdata('nama_lengkap'),
             'username' => $this->session->userdata('username'),
-            'otoritas' => $this->session->userdata('otoritas')
+            'otoritas' => $this->session->userdata('otoritas'),
+            'id_akun' => $this->session->userdata('id_akun')
         );
         $this->load->view('design/header', $data);
     }

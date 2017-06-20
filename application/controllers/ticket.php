@@ -48,91 +48,66 @@ class Ticket extends CI_Controller {
       $this->load->view('design/footer');
     }
 
-    public function editKomplain($id){
+    public function editTicket($id){
       $ref = $this->input->get('ref');
-      $this->load->model('jenis_komplain_model');
-      $this->load->model('media_model');
-      $this->load->model('layanan_model');
-      $this->load->model('komplain_model');
-
-      $data['jenis_komplain'] = $this->jenis_komplain_model->getListJeniskomp();
-      $data['close'] = $this->komplain_model->tgl_closed($id);
-      $data['nama_media'] = $this->media_model->getListMedia();
-      $data['nama_layanan'] = $this->layanan_model->getListLayanan();
+      $this->load->model('Ticket_model');
+            
+      $data['ticket'] = $this->Ticket_model->edit($id);
       $data['ref_uri'] = $ref;
-      
-      $data['makan'] = $this->komplain_model->editKomplain($id);
 
       $this->header();
-      $this->load->view('komplain/edit_komplain', $data);
+      $this->load->view('Ticket/edit_ticket', $data);
       $this->load->view('design/footer');
     }
 
-    public function updateKomplain(){
+    public function updateTicket(){
       $ref = $this->input->post('ref');
       $id = $this->input->post('id');
-      $nopots = $this->input->post('nopots');
-      $noinet = $this->input->post('noinet');
-      $nama = $this->input->post('nama');
-      $alamat = $this->input->post('alamat');
-      $pic = $this->input->post('pic');
-      $namamedia = $this->input->post('namamedia');
-      $namalayanan = $this->input->post('namalayanan');
-      $jeniskomplain = $this->input->post('jeniskomplain');
-      $tglclosed = $this->input->post('tglclosed');
-        //  'TGL_CLOSE'         => $this->input->post(date('Y-m-d', strtotime('tglclosed'))),
-      $keluhan = $this->input->post('keluhan');
-      $solusi = $this->input->post('solusi');
-      $statuskomplain = $this->input->post('statuskomplain');
-      $ket = $this->input->post('ket');
-      $deadlinelama = $this->input->post('deadlinelama');
-      $deadlinebaru = $this->input->post('deadlinebaru');
       $status = $this->input->post('status');
-      if ($status == 'lama')
-      {
-        $deadline = $deadlinelama;
-      }
-      else
-      {
-        $deadline = $deadlinebaru;
-        $tanggal = substr($deadline, 0, 10);
-        $menit = substr($deadline, -5, -3);
-        $temp = substr($deadline, -8, -6);
-        if(substr($deadline, -2) == 'PM'){
-          $result = $temp + 12;
-          if($result == '24'){
-                $result = '00';
-          }
-          $deadline = $tanggal .' '. $result . ':' . $menit;
-          //echo $deadline;
+      $ketclosed = $this->input->post('ketclosed');
+      $ketpending = $this->input->post('ketpending');
+      $data = array(
+            'nama' => $this->session->userdata('nama_lengkap'),
+            'username' => $this->session->userdata('username'),
+            'otoritas' => $this->session->userdata('otoritas'),
+            'id_akun' => $this->session->userdata('id_akun')
+        );
+      $hd = $data['id_akun'];
+        
+      $this->load->model('Ticket_model');
+      if ($status == "CLOSED") {
+        $tglclosed = date('Y-m-d H:i:s');
+
+        if($this->Ticket_model->updateClosedByHD($id, $status, $ketclosed, $ketpending, $hd, $tglclosed)){
+          echo '<script language="javascript">';
+          echo 'alert("Status ticket berhasil diupdate");';
+          // echo 'window.location.href = "' . site_url('Ticket/showAllTicket/4') . '";';
+          echo '</script>';
         }
         else{
-
-          $deadline = $tanggal .' '. $temp . ':' . $menit;
-          //echo $deadline; 
+          echo '<script language="javascript">';
+          echo 'alert("Gagal mengupdate status ticket");';
+          echo 'window.history.back();';
+          echo '</script>';
         }
       }
-        
-      $this->load->model('komplain_model');
-      //echo $status . $deadline;
-      if($this->komplain_model->updateKomplain($id, $nopots, $noinet, $nama, $alamat, $pic, $namamedia, $namalayanan, $jeniskomplain, $tglclosed, $keluhan, $solusi, $statuskomplain, $ket, $deadline, $status))
-      {
-        echo '<script language="javascript">';
-        echo 'alert("Data komplain berhasil diupdate");';
-        echo 'window.location.href = "' . $ref . '";';
-        echo '</script>';
+      else{
+        if($this->Ticket_model->updateByHD($id, $status, $ketclosed, $ketpending, $hd)){
+          echo '<script language="javascript">';
+          echo 'alert("Status ticket berhasil diupdate");'; 
+          // echo 'window.location.href = "' . site_url('Ticket/showAllTicket/4') . '";';
+          echo '</script>';
+        }
+        else{
+          echo '<script language="javascript">';
+          echo 'alert("Gagal mengupdate status ticket");';
+          echo 'window.history.back();';
+          echo '</script>';
+        }
       }
-      else
-      {
-        echo '<script language="javascript">';
-        echo 'alert("Gagal mengupdate data komplain");';
-        echo 'window.history.back();';
-        echo '</script>';
-      }
+
     }
 
-
-    
     public function uploadTicket()
     {
       // to convert alpha to number
@@ -228,12 +203,13 @@ class Ticket extends CI_Controller {
     }
 
 
-    function header()
+    public function header()
     {
       $data = array(
             'nama' => $this->session->userdata('nama_lengkap'),
             'username' => $this->session->userdata('username'),
-            'otoritas' => $this->session->userdata('otoritas')
+            'otoritas' => $this->session->userdata('otoritas'),
+            'id_akun' => $this->session->userdata('id_akun')
         );
         $this->load->view('design/header', $data);
     }

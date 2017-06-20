@@ -125,17 +125,17 @@
             <li class="header">MENU</li>
             <li>
               <a href="<?php echo base_url() ?>dashboard">
-                <i class="fa fa-home"></i> <span>Home</span>
+                <i class="fa fa-home text-red"></i> <span>Home</span>
               </a>
             </li>
             <li>
               <a href="<?php echo base_url() ?>dashboard">
-                <i class="fa fa-home"></i> <span>Lihat Semua Ticket</span>
+                <i class="fa fa-list text-green"></i> <span>Lihat Semua Ticket</span>
               </a>
             </li>
             <li>
               <a href="<?php echo base_url() ?>dashboard">
-                <i class="fa fa-home"></i> <span>Rekap</span>
+                <i class="fa fa-file text-orange"></i> <span>Rekap</span>
               </a>
             </li>
             <?php if($otoritas == "Admin"){ ?>

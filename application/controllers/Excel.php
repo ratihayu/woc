@@ -57,8 +57,8 @@ class Excel extends CI_Controller {
           $actual_solution      = $data->val($i, 39);
           $keterangan_kendala   = $data->val($i, 37);
           $workzone             = $data->val($i, 34);
-          $no_service           = $data->val($i, 1);
-          $datek                = $data->val($i, 13);
+          $no_service           = $data->val($i, 12);
+          $datek                = $data->val($i, 18);
           // $keterangan_closed    = $data->val($i, 3);
           // echo($report_date);
           $new_report_date  = date("Y-m-d h:i:s", strtotime($report_date));
