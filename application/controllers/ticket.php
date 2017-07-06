@@ -64,6 +64,7 @@ class Ticket extends CI_Controller {
       $ref = $this->input->post('ref');
       $id = $this->input->post('id');
       $status = $this->input->post('status');
+      $tech = $this->input->post('tech');
       $ketclosed = $this->input->post('ketclosed');
       $ketpending = $this->input->post('ketpending');
       $data = array(
@@ -92,9 +93,9 @@ class Ticket extends CI_Controller {
         }
       }
       else{
-        if($this->Ticket_model->updateByHD($id, $status, $ketclosed, $ketpending, $hd)){
+        if($this->Ticket_model->updateByHD($id, $status, $tech, $ketclosed, $ketpending, $hd)){
           echo '<script language="javascript">';
-          echo 'alert("Status ticket berhasil diupdate");'; 
+          echo 'alert("Data ticket berhasil diupdate");'; 
           echo 'window.location.href = "' . site_url('Ticket/showAllTicket/4') . '";';
           echo '</script>';
         }

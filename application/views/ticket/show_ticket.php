@@ -66,6 +66,7 @@ function deldata() {
                   <th style="background-color:#FACC2E!important">WORKZONE</th>
                   <th style="background-color:#FACC2E!important">NO SERVICE</th>
                   <th style="background-color:#FACC2E!important">DATEK</th>
+                  <th style="background-color:#FACC2E!important">ASSIGNED TECHNICIAN</th>
                   <th style="background-color:#FACC2E!important">KETERANGAN CLOSED</th>
                   <th style="background-color:#FACC2E!important">KETERANGAN PENDING</th>
                 </tr>
@@ -98,6 +99,7 @@ function deldata() {
                     <td><?php echo $row->WORKZONE; ?></td>
                     <td><?php echo $row->NO_SERVICE; ?></td>
                     <td><?php echo $row->DATEK; ?></td>
+                    <td><?php echo $row->TECHNICIAN_ASSIGNED; ?></td>
                     <td><?php echo $row->KETERANGAN_CLOSED; ?></td>
                     <td><?php echo $row->KETERANGAN_PENDING; ?></td>
                   </tr>
@@ -126,6 +128,7 @@ function deldata() {
                   <th style="background-color:#FACC2E!important">WORKZONE</th>
                   <th style="background-color:#FACC2E!important">NO SERVICE</th>
                   <th style="background-color:#FACC2E!important">DATEK</th>
+                  <th style="background-color:#FACC2E!important">ASSIGNED TECHNICIAN</th>
                   <th style="background-color:#FACC2E!important">KETERANGAN CLOSED</th>
                   <th style="background-color:#FACC2E!important">KETERANGAN PENDING</th>
                 </tr>

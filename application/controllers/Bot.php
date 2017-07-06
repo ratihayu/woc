@@ -7,7 +7,6 @@ class Bot extends CI_Controller {
     }
     
     public function index(){
-        while(true){
             $token = "333258187:AAFxzbpduaUH3OT1jDkjeaF7L7p-LfTuj-g";
             $url="https://api.telegram.org/bot".$token."/";
 
@@ -75,7 +74,5 @@ class Bot extends CI_Controller {
                 }
                 else continue;
             }
-            sleep(60);
-        }
     }
 }

@@ -18,6 +18,7 @@
                           $status         = $row['STATUS'];
                           $name           = $row['CUSTOMER_NAME'];
                           $summary        = $row['SUMMARY'];
+                          $tech           = $row['TECHNICIAN_ASSIGNED'];
                           $ketclosed      = $row['KETERANGAN_CLOSED'];
                           $ketpending     = $row['KETERANGAN_PENDING'];
                        }
@@ -57,6 +58,10 @@
                         <div class="form-group">
                           <label>Summary</span></label>
                           <textarea name="summary" id="summary" type="text" class="form-control" disabled> <?php echo $summary;?></textarea>
+                        </div>
+                        <div class="form-group">
+                          <label>Assigned Technician</span></label>
+                          <input name="tech" id="tech" type="text" class="form-control"><?php echo $tech;?></input>
                         </div>
                         <div class="form-group">
                           <label>Keterangan Closed</span></label>
