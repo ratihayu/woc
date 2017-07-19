@@ -1,0 +1,5280 @@
+
+
+			<html xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+	
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+				<style>
+					<!--table
+						tr 
+							{vertical-align:top;}
+						br
+							{mso-data-placement:same-cell;}
+					-->
+				</style>
+					<!--[if gte mso 9]>
+						<xml>
+							<x:ExcelWorkbook>
+								<x:ExcelWorksheets>
+									<x:ExcelWorksheet>
+										<x:Name>List of Incidents</x:Name>
+										<x:WorksheetOptions>
+											<x:Selected/>
+										</x:WorksheetOptions>
+									</x:ExcelWorksheet>
+								</x:ExcelWorksheets>
+							</x:ExcelWorkbook>
+						</xml>
+					<![endif]
+					-->
+				</head>
+	
+				<body>
+					<table>
+						<tr>
+	
+							<td x:str>
+								Incident
+							</td>
+	
+							<td x:str>
+								Customer Name
+							</td>
+	
+							<td x:str>
+								Summary
+							</td>
+	
+							<td x:str>
+								Owner Group
+							</td>
+	
+							<td x:str>
+								Owner
+							</td>
+	
+							<td x:str>
+								Last Updated Work Log
+							</td>
+	
+							<td x:str>
+								Last Work Log Date
+							</td>
+	
+							<td x:str>
+								Source
+							</td>
+	
+							<td x:str>
+								Segment
+							</td>
+	
+							<td x:str>
+								Channel
+							</td>
+	
+							<td x:str>
+								Customer Segment
+							</td>
+	
+							<td x:str>
+								Service ID
+							</td>
+	
+							<td x:str>
+								Service No
+							</td>
+	
+							<td x:str>
+								Service Type
+							</td>
+	
+							<td x:str>
+								Top Priority
+							</td>
+	
+							<td x:str>
+								SLG
+							</td>
+	
+							<td x:str>
+								Technology
+							</td>
+	
+							<td x:str>
+								Datek
+							</td>
+	
+							<td x:str>
+								RK Name
+							</td>
+	
+							<td x:str>
+								Induk Gamas
+							</td>
+	
+							<td x:str>
+								Reported Date
+							</td>
+	
+							<td x:str>
+								TTR Customer
+							</td>
+	
+							<td x:str>
+								TTR Nasional
+							</td>
+	
+							<td x:str>
+								TTR Regional
+							</td>
+	
+							<td x:str>
+								TTR Witel
+							</td>
+	
+							<td x:str>
+								TTR Mitra
+							</td>
+	
+							<td x:str>
+								TTR Agent
+							</td>
+	
+							<td x:str>
+								Status
+							</td>
+	
+							<td x:str>
+								OSM Resolved Code
+							</td>
+	
+							<td x:str>
+								Last Update Ticket
+							</td>
+	
+							<td x:str>
+								Status Date
+							</td>
+	
+							<td x:str>
+								Closed/Reopen By
+							</td>
+	
+							<td x:str>
+								Resolved By
+							</td>
+	
+							<td x:str>
+								Workzone
+							</td>
+	
+							<td x:str>
+								Witel
+							</td>
+	
+							<td x:str>
+								Regional
+							</td>
+	
+							<td x:str>
+								Incident's Symptom
+							</td>
+	
+							<td x:str>
+								Solution's Segment
+							</td>
+	
+							<td x:str>
+								Actual Solution
+							</td>
+	
+						</tr>
+	
+								<tr>
+	
+													<td x:str>IN17916451</td>
+	
+													<td x:str>TJAHYO&nbsp;HENDARTO</td>
+	
+													<td x:str>[0293365194/BU&nbsp;RONI&nbsp;/08156552425&nbsp;]&nbsp;bu&nbsp;roni&nbsp;//&nbsp;08156552425&nbsp;//&nbsp;tlp&nbsp;kmrosok&nbsp;&nbsp;[DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22043669_0293365194_VOICE</td>
+	
+													<td x:str>0293365194</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MG1_47_1&nbsp;RK10</td>
+	
+													<td x:str></td>
+	
+													<td x:str>IN18157670</td>
+	
+														<td x:str>10-07-2017 15:32:03</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 11:58:46</td>
+	
+													<td x:str>7</td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Suara&nbsp;lemah,&nbsp;robot,&nbsp;dengung&nbsp;dan&nbsp;kemrosok</td>
+	
+													<td x:str></td>
+	
+													<td x:str>SOLUTION_VOICE,POTS&nbsp;-&nbsp;JARINGAN&nbsp;LOKAL&nbsp;COPPER,KABEL&nbsp;SEKUNDER</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18020344</td>
+	
+													<td x:str>PPK&nbsp;IRIGASI&nbsp;DAN&nbsp;RAWAT</td>
+	
+													<td x:str>Redaman&nbsp;ODP&nbsp;besar&nbsp;[146140109088/BP.KAPRI/081328817744]&nbsp;bp.KAPRI&nbsp;/&nbsp;inet&nbsp;lambat&nbsp;srg&nbsp;rto&nbsp;146140109088&nbsp;&nbsp;[DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>20930336</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>31570576_146140109088_INTERNET</td>
+	
+													<td x:str>146140109088</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-GOM-FAA/04&nbsp;FAA/D04/04-01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>13-07-2017 10:52:43</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 11:00:09</td>
+	
+													<td x:str>7</td>
+	
+													<td x:str></td>
+	
+													<td x:str>GOM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Lambat</td>
+	
+													<td x:str></td>
+	
+													<td x:str>SOLUTION_INTERNET,INTERNET&nbsp;-&nbsp;CPE,ACCESS&nbsp;POINT&nbsp;TELKOM&nbsp;HOTSPOT</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18124767</td>
+	
+													<td x:str>SITI&nbsp;INDARWATI</td>
+	
+													<td x:str>[02934901175/IBU&nbsp;SITI&nbsp;INDARWATI/081227986423]&nbsp;nama	:&nbsp;ibu&nbsp;SITI&nbsp;INDARWATI&nbsp;tlp	:&nbsp;02934901177&nbsp;gangguan	:&nbsp;tlp&nbsp;mattot&nbsp;dan&nbsp;inet&nbsp;tbc&nbsp;&nbsp;[DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22044375_02934901175_VOICE</td>
+	
+													<td x:str>02934901175</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;TMG_47_1&nbsp;FDH09</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 08:34:18</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 08:43:46</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;2P&nbsp;/&nbsp;3P&nbsp;Mati&nbsp;Total</td>
+	
+													<td x:str></td>
+	
+													<td x:str>SOLUTION_VOICE,POTS&nbsp;-&nbsp;COPPER-IKR&nbsp;/&nbsp;IKG,COPPER-IKR&nbsp;/&nbsp;IKG</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18133785</td>
+	
+													<td x:str>LAILY</td>
+	
+													<td x:str>TO&nbsp;[141137105026/lailii/085643513827]&nbsp;minta&nbsp;diganti&nbsp;useer&nbsp;sama&nbsp;password&nbsp;wifi.&nbsp;karna&nbsp;sudah&nbsp;byak&nbsp;yg&nbsp;menggunakan&nbsp;wifi..&nbsp;diluar.&nbsp;mhn&nbsp;bantuan&nbsp;perbaikan.&nbsp;tks&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>29983130_141137105026_INTERNET</td>
+	
+													<td x:str>141137105026</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MG1_47_1&nbsp;MRAJ08</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 10:37:26</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 11:02:32</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Perangkat&nbsp;Pelanggan&nbsp;|&nbsp;Perangkat&nbsp;Pelanggan&nbsp;-&nbsp;Sharing&nbsp;Koneksi&nbsp;LAN/WiFi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18139464</td>
+	
+													<td x:str>SUGIARTO</td>
+	
+													<td x:str>TO&nbsp;[0293314345/SUGIARTO/0816684767]&nbsp;tlp&nbsp;matot&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21828957_0293314345_VOICE</td>
+	
+													<td x:str>0293314345</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MG1_47_1&nbsp;RE23</td>
+	
+													<td x:str></td>
+	
+													<td x:str>IN18146563</td>
+	
+														<td x:str>17-07-2017 11:51:39</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 12:02:43</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18143497</td>
+	
+													<td x:str>H.&nbsp;MUZAKKI&nbsp;DAHLAN</td>
+	
+													<td x:str>[0287382139/H.&nbsp;MUZAKKI&nbsp;DAHLAN/087837586830]&nbsp;telepon&nbsp;matot&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>20930336</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21787430_0287382139_VOICE</td>
+	
+													<td x:str>0287382139</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;KM1_47_1&nbsp;RF48</td>
+	
+													<td x:str></td>
+	
+													<td x:str>IN18153746</td>
+	
+														<td x:str>17-07-2017 13:06:40</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 13:22:41</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>KBM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str>SOLUTION_VOICE,POTS&nbsp;-&nbsp;RADIO-MDF,RADIO-ARRESTOR</td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18145414</td>
+	
+													<td x:str>DAMAR</td>
+	
+													<td x:str>[146148109018/MBAK&nbsp;AYU/085877161494]&nbsp;INET&nbsp;MATI&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>30285614_146148109018_INTERNET</td>
+	
+													<td x:str>146148109018</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-TMG-FAA2/17&nbsp;FAA/KU02/01.17</td>
+	
+													<td x:str></td>
+	
+													<td x:str>IN18181953</td>
+	
+														<td x:str>17-07-2017 13:38:50</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 14:01:55</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Tidak&nbsp;Bisa&nbsp;Koneksi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18146176</td>
+	
+													<td x:str>PRIS&nbsp;DAMAR&nbsp;NAJAM&nbsp;WIBAWA</td>
+	
+													<td x:str>[02934902303/BP&nbsp;TEGUH/085228092236]&nbsp;TELPON&nbsp;MATI&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22374846_02934902303_VOICE</td>
+	
+													<td x:str>02934902303</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;TMG_47_1&nbsp;FDB07</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 13:51:14</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 15:09:47</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18147890</td>
+	
+													<td x:str>AJI&nbsp;SETIAWAN</td>
+	
+													<td x:str>[146137119163/mbak&nbsp;lorenza/089646808203]&nbsp;gangguan&nbsp;useetv&nbsp;[A_IPTV][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>31692591_146137119163_IPTV</td>
+	
+													<td x:str>146137119163</td>
+	
+													<td x:str>IPTV</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MGE-FD/013&nbsp;FD/D02/013.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 14:22:01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 17:19:32</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>IPTV&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;1302&nbsp;&#040;STB&nbsp;&nbsp;tidak&nbsp;bisa&nbsp;connect&nbsp;ke&nbsp;EPG&nbsp;Server/Middleware&#041;</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18147907</td>
+	
+													<td x:str>MEBEL&nbsp;LASTIGA</td>
+	
+													<td x:str>[0293365789/BAPA&nbsp;BARUS/0817446823]&nbsp;bapa&nbsp;barus&nbsp;&nbsp;/&nbsp;&nbsp;3&nbsp;hari&nbsp;matot&nbsp;&nbsp;/&nbsp;0293365789&nbsp;[DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>30604004_0293365789_VOICE</td>
+	
+													<td x:str>0293365789</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MG1_47_1&nbsp;RR05</td>
+	
+													<td x:str></td>
+	
+													<td x:str>IN18176546</td>
+	
+														<td x:str>17-07-2017 14:22:24</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 15:59:32</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Fiber&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Fiber&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18148412</td>
+	
+													<td x:str>T&nbsp;HARTOYO</td>
+	
+													<td x:str>[0293326872/Ibu&nbsp;Hartoyo/0811268392]&nbsp;pabx&nbsp;:&nbsp;0293326573&nbsp;ibu&nbsp;hartoyo&nbsp;//&nbsp;tlp&nbsp;matot&nbsp;//&nbsp;0293326872&nbsp;[DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22145664_0293326872_VOICE</td>
+	
+													<td x:str>0293326872</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MTY-FAF/006&nbsp;FAF/D01/006.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 14:27:00</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 16:29:31</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MTY</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Fiber&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Fiber&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18149286</td>
+	
+													<td x:str>ASSET&nbsp;DUMMY&nbsp;SEGMENT&nbsp;DCS</td>
+	
+													<td x:str>[NN/ibu&nbsp;bambang/081328262300]&nbsp;kabel&nbsp;putus&nbsp;/&nbsp;bambang&nbsp;[Z_NN]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>20930336</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:str></td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>DEFAULT_NN_NAS_DCS_VOICE</td>
+	
+													<td x:str>DEFAULT_NN_NAS_DCS_VOICE</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 14:39:42</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 15:33:05</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>KBM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>NON&nbsp;NUMBERING&nbsp;&amp;&nbsp;PROVISIONING&nbsp;|&nbsp;NON&nbsp;NUMBERING&nbsp;|&nbsp;TREG-4&nbsp;JATENG&nbsp;|&nbsp;Kabel&nbsp;&#040;KU/KR&#041;&nbsp;terjuntai&nbsp;/&nbsp;tidak&nbsp;rapi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18150329</td>
+	
+													<td x:str>NURROHMAT&nbsp;MIFTAHUS&nbsp;SURUR</td>
+	
+													<td x:str>[146137109943/NURROHMAT&nbsp;M/081514305581]&nbsp;sosmed/NURROHMAT&nbsp;M/146137109943/081514305581/TBC&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>19</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>31605180_146137109943_INTERNET</td>
+	
+													<td x:str>146137109943</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MG-FRAK/05&nbsp;FRAK/D01/06.05</td>
+	
+													<td x:str></td>
+	
+													<td x:str>IN18184542</td>
+	
+														<td x:str>17-07-2017 14:54:42</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 15:03:16</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Tidak&nbsp;Bisa&nbsp;Koneksi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18151636</td>
+	
+													<td x:str>ARIF&nbsp;WAGMI&nbsp;ANINDITYO&nbsp;ST</td>
+	
+													<td x:str>[146141409704/ARIF&nbsp;WAGMI&nbsp;ANINDITYO&nbsp;ST/02876601573]&nbsp;02876601573&nbsp;bp&nbsp;arif&nbsp;tbc&nbsp;08112613202&nbsp;[DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>20930336</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>32305250_146141409704_INTERNET</td>
+	
+													<td x:str>146141409704</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-KBM-FAP/003&nbsp;FAP/D02/003.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 15:18:34</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 15:41:25</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>KBM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Tidak&nbsp;Bisa&nbsp;Koneksi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18156003</td>
+	
+													<td x:str>SOFYAN&nbsp;RAHARJO&nbsp;SUGIARTO</td>
+	
+													<td x:str>[142175101300/bp&nbsp;aldi/081231725767]&nbsp;&nbsp;bp&nbsp;aldi&nbsp;142175101300&nbsp;tbc&nbsp;&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>33094954_142175101300_INTERNET</td>
+	
+													<td x:str>142175101300</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MGE-FG/004&nbsp;FG/D01/004.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 16:43:49</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 17:01:30</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Tidak&nbsp;Bisa&nbsp;Koneksi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18157259</td>
+	
+													<td x:str>SUPANGKAT&nbsp;HARI&nbsp;KUSWORO</td>
+	
+													<td x:str>[146138109359/IBU&nbsp;SITI/081325612213]&nbsp;siti//&nbsp;inet&nbsp;tbc//&nbsp;mohon&nbsp;bantuan//&nbsp;trims&nbsp;[DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>20930336</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>31762898_146138109359_INTERNET</td>
+	
+													<td x:str>146138109359</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-PWJ-FAL/004&nbsp;FAL/D01/004.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 17:12:10</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 17:21:58</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>PWJ</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Tidak&nbsp;Bisa&nbsp;Koneksi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18158167</td>
+	
+													<td x:str>DHIMAS&nbsp;NURCAHYA</td>
+	
+													<td x:str>konfirm&nbsp;jam&nbsp;2&nbsp;[141373101031/Dhimas&nbsp;Nurcahya/085729527753]&nbsp;Putus-putus</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>6</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>32718001_141373101031_INTERNET</td>
+	
+													<td x:str>141373101031</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-WOS-FAE/025&nbsp;FAE/D03/025.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 17:36:10</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>17-07-2017 17:41:55</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>WOS</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;INTERNET&nbsp;TEKNIKAL&nbsp;|&nbsp;Intermitten&nbsp;/&nbsp;Putus-Putus&nbsp;|&nbsp;Intermitten&nbsp;/&nbsp;Putus-Putus&nbsp;-&nbsp;FISIK</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18164828</td>
+	
+													<td x:str>ABAS&nbsp;KOSIM&nbsp;S.P</td>
+	
+													<td x:str>[02934902822/bu&nbsp;abas/085290656169]&nbsp;BU&nbsp;abas&nbsp;matot&nbsp;2&nbsp;minggu&nbsp;02934902822&nbsp;[DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22352759_02934902822_VOICE</td>
+	
+													<td x:str>02934902822</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;TMG_47_1&nbsp;FDJ44</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 07:34:55</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 07:43:20</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Fiber&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Fiber&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18165736</td>
+	
+													<td x:str>SURJO&nbsp;SUWITO&nbsp;PURNOMO</td>
+	
+													<td x:str>[142175101742/bp&nbsp;SURJO&nbsp;SUWITO&nbsp;PURNOMO/08164262477]&nbsp;inet&nbsp;tbc&nbsp;/&nbsp;&nbsp;ibu&nbsp;feni&nbsp;/&nbsp;&nbsp;&nbsp;0293360805&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21832359_142175101742_INTERNET</td>
+	
+													<td x:str>142175101742</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MGE-FF/036&nbsp;FF/D02/036.02</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 08:07:36</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 08:22:52</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Tidak&nbsp;Bisa&nbsp;Koneksi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18167548</td>
+	
+													<td x:str>SUGIMIN&nbsp;ASMARAN&nbsp;ANTONIUS</td>
+	
+													<td x:str>[142137100045/SUGIMIN&nbsp;ASMARAN&nbsp;ANTONIUS/081328780935]&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;2P&nbsp;/&nbsp;3P&nbsp;Mati&nbsp;Total&nbsp;sejak&nbsp;diganti&nbsp;fiber...ada&nbsp;dirumah&nbsp;jam&nbsp;3&nbsp;keatas,&nbsp;/&nbsp;bisa&nbsp;janjian&nbsp;dulu..&nbsp;&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21827739_142137100045_INTERNET</td>
+	
+													<td x:str>142137100045</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MGE-FM/021&nbsp;FM/D03/021.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 08:43:30</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 09:02:58</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;2P&nbsp;/&nbsp;3P&nbsp;Mati&nbsp;Total</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18167838</td>
+	
+													<td x:str>SINDU&nbsp;UTOMO</td>
+	
+													<td x:str>[0293585368/bp&nbsp;sindhu/087834018890]&nbsp;tlp&nbsp;masih&nbsp;kemresek&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>API97159825</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21840691_0293585368_VOICE</td>
+	
+													<td x:str>0293585368</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MNT_47_1&nbsp;RA22</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 08:47:56</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 09:03:32</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MUN</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Suara&nbsp;lemah,&nbsp;robot,&nbsp;dengung&nbsp;dan&nbsp;kemrosok</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18168174</td>
+	
+													<td x:str>HALIM&nbsp;SUGIYANTO</td>
+	
+													<td x:str>[0293491919/IBU&nbsp;ESTER/085292711108]&nbsp;TELPON&nbsp;MATI&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21838755_0293491919_VOICE</td>
+	
+													<td x:str>0293491919</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;TMG_47_1&nbsp;RC28</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 08:52:14</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 09:04:08</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18168399</td>
+	
+													<td x:str>RUBIYANTO</td>
+	
+													<td x:str>[0293492971/RUBIYANTO/0293492971]&nbsp;TELPON&nbsp;MATI&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22044218_0293492971_VOICE</td>
+	
+													<td x:str>0293492971</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;TMG_47_1&nbsp;RC27</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 08:56:00</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 09:04:30</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18170428</td>
+	
+													<td x:str>DIDIK&nbsp;HERI&nbsp;KUSDIYANTO</td>
+	
+													<td x:str>[141149102033/BP&nbsp;DIDIK/082221621069]&nbsp;USEE&nbsp;TV&nbsp;MATI&nbsp;[A_IPTV][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>34232087_141149102033_IPTV</td>
+	
+													<td x:str>141149102033</td>
+	
+													<td x:str>IPTV</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-TMG-FAC/03&nbsp;FAC/D01/03.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 09:26:44</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 09:43:33</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>IPTV&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;-&nbsp;1901&nbsp;&#040;koneksi&nbsp;UTP&nbsp;antara&nbsp;Modem/HGW&nbsp;dan&nbsp;STB&nbsp;bermasalah&#041;</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18171372</td>
+	
+													<td x:str>SUMALI&nbsp;SALIM</td>
+	
+													<td x:str>[146137109930/SUMALI&nbsp;SALIM/085725821019]&nbsp;BP&nbsp;SUMALI&nbsp;inet&nbsp;tersa&nbsp;lambat&nbsp;sekali&nbsp;apalagi&nbsp;siang/dapat&nbsp;sampai&nbsp;30&nbsp;mbps&nbsp;saja&nbsp;146137109930&nbsp;[DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>31599262_146137109930_INTERNET</td>
+	
+													<td x:str>146137109930</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MGE-FRR/30&nbsp;FRR/D05/30.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 09:38:36</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 10:42:22</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Lambat</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18171427</td>
+	
+													<td x:str>ZAINUDIN</td>
+	
+													<td x:str>[0293789725/mas&nbsp;samsul/08562555922]&nbsp;matot&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>API97159825</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21846139_0293789725_VOICE</td>
+	
+													<td x:str>0293789725</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 09:39:10</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 13:47:47</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>SWT</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Tidak&nbsp;bisa&nbsp;memanggil</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18171616</td>
+	
+													<td x:str>SMK&nbsp;SWADAYA&nbsp;TEMANGGUNG&nbsp;&#040;1&#041;</td>
+	
+													<td x:str>[146148109323/&nbsp;bp&nbsp;guntoro/089686851097]&nbsp;146148109323&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;bp&nbsp;guntoro&nbsp;/&nbsp;usee&nbsp;tv&nbsp;blank&nbsp;hitam&nbsp;&nbsp;[A_IPTV][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>31405760_146148109323_IPTV</td>
+	
+													<td x:str>146148109323</td>
+	
+													<td x:str>IPTV</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-TMG-FAC/19&nbsp;FAC/D01/19-01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 09:41:51</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 09:48:16</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>IPTV&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;-&nbsp;4514&nbsp;&#040;Error&nbsp;multicast&nbsp;traffic&nbsp;pada&nbsp;channel&nbsp;Live&nbsp;TV&#041;</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18171828</td>
+	
+													<td x:str>SOEDIRO&nbsp;ATAS&nbsp;M</td>
+	
+													<td x:str>[0287471560/bp&nbsp;soediro/081228406468]&nbsp;bp&nbsp;soediro/matot/cp.&nbsp;081228406468&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>20930336</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21790507_0287471560_VOICE</td>
+	
+													<td x:str>0287471560</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;GB1_47_1&nbsp;RC03</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 09:44:25</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 10:03:09</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GOM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18171912</td>
+	
+													<td x:str>HODING&nbsp;HARDIMAN</td>
+	
+													<td x:str>[146138109029/ibu&nbsp;dian/081328009873]&nbsp;useetv&nbsp;blank&nbsp;-&nbsp;eror&nbsp;4514&nbsp;/&nbsp;ibu&nbsp;dian&nbsp;/&nbsp;&nbsp;146138109029&nbsp;[DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>20930336</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>31231703_146138109029_IPTV</td>
+	
+													<td x:str>146138109029</td>
+	
+													<td x:str>IPTV</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-PWJ-FAD/04&nbsp;FAD/D01/02.04</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 09:45:27</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 10:03:36</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>PWJ</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>IPTV&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;-&nbsp;4514&nbsp;&#040;Error&nbsp;multicast&nbsp;traffic&nbsp;pada&nbsp;channel&nbsp;Live&nbsp;TV&#041;</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18173310</td>
+	
+													<td x:str>SUNARTO</td>
+	
+													<td x:str>[0293492636/SUNARTO/08121568051]&nbsp;TELPON&nbsp;MATI&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22146408_0293492636_VOICE</td>
+	
+													<td x:str>0293492636</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;TMG_47_1&nbsp;FDH34</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 10:05:20</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 10:32:29</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18173545</td>
+	
+													<td x:str>yuni&nbsp;wulandari</td>
+	
+													<td x:str>[141149102043/BP&nbsp;SUGENG/085643330145]&nbsp;SETING&nbsp;INET&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>34242975_141149102043_INTERNET</td>
+	
+													<td x:str>141149102043</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-TMG-FAR/005&nbsp;FAR/D02/005.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 10:08:49</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 10:19:51</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Perangkat&nbsp;Pelanggan&nbsp;|&nbsp;Perangkat&nbsp;Pelanggan&nbsp;-&nbsp;Sharing&nbsp;Koneksi&nbsp;LAN/WiFi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18173978</td>
+	
+													<td x:str>ERLY&nbsp;LAURENSIA</td>
+	
+													<td x:str>[0293363016/BP&nbsp;HARRY/0293363475]&nbsp;0293363016&nbsp;/&nbsp;BP&nbsp;HARRY&nbsp;/&nbsp;matot&nbsp;[DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21833809_0293363016_VOICE</td>
+	
+													<td x:str>0293363016</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MG1_47_1&nbsp;RE23</td>
+	
+													<td x:str></td>
+	
+													<td x:str>IN18176546</td>
+	
+														<td x:str>18-07-2017 10:14:09</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:09:31</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Fiber&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Fiber&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18174240</td>
+	
+													<td x:str>SUGENG</td>
+	
+													<td x:str>[0293368084/pak&nbsp;rahmat/081578456696]&nbsp;tlp&nbsp;matot&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>30500767_0293368084_VOICE</td>
+	
+													<td x:str>0293368084</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MG1_47_1&nbsp;RE22</td>
+	
+													<td x:str></td>
+	
+													<td x:str>IN18146563</td>
+	
+														<td x:str>18-07-2017 10:17:36</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 10:42:26</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18175615</td>
+	
+													<td x:str>PRIYOTO&nbsp;SE</td>
+	
+													<td x:str>[0293326100/mita/085783780808&nbsp;]&nbsp;tlp&nbsp;kemresek&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22039568_0293326100_VOICE</td>
+	
+													<td x:str>0293326100</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MTY-FAD/023&nbsp;FAD/D02/023.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 10:35:45</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 10:44:04</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MTY</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;-&nbsp;&nbsp;Fiber&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;-&nbsp;&nbsp;Fiber&nbsp;-&nbsp;Suara&nbsp;lemah,&nbsp;robot,&nbsp;dengung&nbsp;dan&nbsp;kemrosok</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18176285</td>
+	
+													<td x:str>ACHMAD&nbsp;MUCHOLIF</td>
+	
+													<td x:str>[141140100775/BPK&nbsp;AHMAD/082220417530]&nbsp;BPK&nbsp;AHMAD&nbsp;/&nbsp;gaul&nbsp;/&nbsp;TBC&nbsp;[DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>20930336</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22365173_141140100775_INTERNET</td>
+	
+													<td x:str>141140100775</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;GB1_47_1&nbsp;RD04</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 10:43:49</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:02:55</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>GOM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Tidak&nbsp;Bisa&nbsp;Koneksi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18176606</td>
+	
+													<td x:str>YAYASAN&nbsp;SHEKINAH&nbsp;MULIA&nbsp;INDONESIA</td>
+	
+													<td x:str>[0293492823/Ibu&nbsp;Yeni/085385408990]&nbsp;ibu&nbsp;martha&nbsp;/&nbsp;telp&nbsp;matot&nbsp;/&nbsp;0293492823&nbsp;/&nbsp;lapul&nbsp;IN17938838&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22430945_0293492823_VOICE</td>
+	
+													<td x:str>0293492823</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;TMG_47_1&nbsp;RC50</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 10:49:14</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:03:07</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18177744</td>
+	
+													<td x:str>TKIT&nbsp;ZAID&nbsp;BIN&nbsp;TSABIT</td>
+	
+													<td x:str>[142174101677/ibu&nbsp;erawati/088806802509]&nbsp;inet&nbsp;dc&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>API97159825</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22340304_142174101677_INTERNET</td>
+	
+													<td x:str>142174101677</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MKD_47_1&nbsp;FDE18</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:03:42</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:23:06</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MUN</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Tidak&nbsp;Bisa&nbsp;Koneksi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18177892</td>
+	
+													<td x:str>SLAMET&nbsp;KHUNDORI</td>
+	
+													<td x:str>[141148101331/PAK&nbsp;TOMI&nbsp;/08122537665]&nbsp;141148101331&nbsp;//&nbsp;Intermitten&nbsp;/&nbsp;Putus-Putus&nbsp;//&nbsp;PAK&nbsp;TOMI&nbsp;&nbsp;cp:&nbsp;08122537665</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>18</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21838714_141148101331_INTERNET</td>
+	
+													<td x:str>141148101331</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;TMG_47_1&nbsp;FDJ17</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:05:11</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 14:18:45</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Intermitten&nbsp;/&nbsp;Putus-Putus</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18177986</td>
+	
+													<td x:str>HARTONO</td>
+	
+													<td x:str>[0293360602/HARTONO/08122700690]&nbsp;tlp&nbsp;tdk&nbsp;dapat&nbsp;dipanggil&nbsp;,&nbsp;tdk&nbsp;ada&nbsp;nada&nbsp;dering,&nbsp;tlp&nbsp;d&nbsp;hunting&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21832223_0293360602_VOICE</td>
+	
+													<td x:str>0293360602</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MGE-FRR/30&nbsp;FRR/D05/30.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:06:15</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:53:16</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Fiber&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Fiber&nbsp;-&nbsp;Gangguan&nbsp;Hunting</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18178062</td>
+	
+													<td x:str>SA&#039;IDAH</td>
+	
+													<td x:str>[02934901708/BP&nbsp;PRIYONO/085643705585]&nbsp;TELPON&nbsp;MATI&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22486934_02934901708_VOICE</td>
+	
+													<td x:str>02934901708</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;TMG_47_1&nbsp;FDE15</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:07:12</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:18:20</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18178578</td>
+	
+													<td x:str>ERWIN&nbsp;RIDWAN&nbsp;PRIYADI</td>
+	
+													<td x:str>[0293587377/erwin&nbsp;/085326728308]&nbsp;suara&nbsp;tlp&nbsp;kemresek&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>API97159825</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21841890_0293587377_VOICE</td>
+	
+													<td x:str>0293587377</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MNT_47_1&nbsp;RA21</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:14:05</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:23:58</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MUN</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Suara&nbsp;lemah,&nbsp;robot,&nbsp;dengung&nbsp;dan&nbsp;kemrosok</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18178667</td>
+	
+													<td x:str>ERWIN&nbsp;RIDWAN&nbsp;PRIBADI</td>
+	
+													<td x:str>[0293587015/erwin&nbsp;/085326728308]&nbsp;tlp&nbsp;kemresek&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>API97159825</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21841651_0293587015_VOICE</td>
+	
+													<td x:str>0293587015</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MNT_47_1&nbsp;RA21</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:15:12</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:23:48</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MUN</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Suara&nbsp;lemah,&nbsp;robot,&nbsp;dengung&nbsp;dan&nbsp;kemrosok</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18178794</td>
+	
+													<td x:str>ERWIN&nbsp;RIDWAN&nbsp;PRIYADI</td>
+	
+													<td x:str>[0293587405/erwin&nbsp;/085326728308]&nbsp;tlp&nbsp;kemresek&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>API97159825</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>2</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21841907_0293587405_VOICE</td>
+	
+													<td x:str>0293587405</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Titanium</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MNT_47_1&nbsp;RA21</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:16:53</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:24:21</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MUN</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;|&nbsp;Jaringan&nbsp;Tidak&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;-&nbsp;Suara&nbsp;lemah,&nbsp;robot,&nbsp;dengung&nbsp;dan&nbsp;kemrosok</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18179250</td>
+	
+													<td x:str>SUTRISNO</td>
+	
+													<td x:str>[0293311468/.&nbsp;SUTRISNO/081328769078]&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada..&nbsp;1&nbsp;bulan.&nbsp;mhn&nbsp;bantuan&nbsp;sgra&nbsp;perbaiakn.&nbsp;tks&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>3</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21827174_0293311468_VOICE</td>
+	
+													<td x:str>0293311468</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Gold</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MG1_47_1&nbsp;RG87</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:23:05</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:48:27</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;|&nbsp;Jaringan&nbsp;Layak&nbsp;-&nbsp;Non&nbsp;Fiber&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18179747</td>
+	
+													<td x:str>BAMBANG&nbsp;S&nbsp;MUHIBAYANTO&nbsp;BE</td>
+	
+													<td x:str>[0275324717/BAMBANG/081392612797]&nbsp;telp&nbsp;matot&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>20930336</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21661793_0275324717_VOICE</td>
+	
+													<td x:str>0275324717</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;PWR_47_1&nbsp;RL06</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:29:06</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:43:29</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>PWJ</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18180564</td>
+	
+													<td x:str>WIDAYAT&nbsp;T</td>
+	
+													<td x:str>[0275641994/widayat/081392797222]&nbsp;telp&nbsp;mati&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>20930336</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21663111_0275641994_VOICE</td>
+	
+													<td x:str>0275641994</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;KTA_47_1&nbsp;RA20</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:41:40</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:02:58</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>KTA</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18180709</td>
+	
+													<td x:str>LUKMAN&nbsp;MUCHAMADI</td>
+	
+													<td x:str>[02753141330/LUKMAN&nbsp;MUCHAMADI/02753141330]&nbsp;telp&nbsp;mati&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>20930336</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22404191_02753141330_VOICE</td>
+	
+													<td x:str>02753141330</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;KTA_47_1&nbsp;FDG16</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:43:55</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:02:45</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>KTA</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18181248</td>
+	
+													<td x:str>SDN&nbsp;SENDEN</td>
+	
+													<td x:str>[141164100769/bu&nbsp;simyati/085640825161]&nbsp;tbc&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>API97159825</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>32887245_141164100769_INTERNET</td>
+	
+													<td x:str>141164100769</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-SWT-FMRE/10&nbsp;FMRE/D02/01.01-10</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:53:24</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:03:31</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>SWT</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Tidak&nbsp;Bisa&nbsp;Koneksi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18181591</td>
+	
+													<td x:str>SUMARGONO&nbsp;S.&nbsp;WIJAYA</td>
+	
+													<td x:str>[0275641416/SUMARGONO&nbsp;S.&nbsp;WIJAYA/087837949504]&nbsp;telp&nbsp;matot&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>20930336</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22131999_0275641416_VOICE</td>
+	
+													<td x:str>0275641416</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;KTA_47_1&nbsp;DCLH03</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:59:10</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:22:50</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>KTA</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18181609</td>
+	
+													<td x:str>MIFTAKHUL&nbsp;HUDA</td>
+	
+													<td x:str>[141137102256/miftah/0895343088357]&nbsp;internet&nbsp;dc&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>31030328_141137102256_INTERNET</td>
+	
+													<td x:str>141137102256</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MG1_47_1&nbsp;FDA32</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 11:59:28</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:22:43</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Tidak&nbsp;Bisa&nbsp;Koneksi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18181788</td>
+	
+													<td x:str>YULI&nbsp;ELMA&nbsp;VILIA</td>
+	
+													<td x:str>[146137109397/Wahyou&nbsp;Kristin/085799956759]&nbsp;sosmed&nbsp;/&nbsp;TBC&nbsp;/&nbsp;146137109397&nbsp;/&nbsp;085799956759&nbsp;/&nbsp;Wahyou&nbsp;Kristin&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>19</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>31381423_146137109397_INTERNET</td>
+	
+													<td x:str>146137109397</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MG-FRAK/05&nbsp;FRAK/D01/06.05</td>
+	
+													<td x:str></td>
+	
+													<td x:str>IN18184542</td>
+	
+														<td x:str>18-07-2017 12:03:06</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:22:52</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Tidak&nbsp;Bisa&nbsp;Koneksi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18184147</td>
+	
+													<td x:str>ABDULLAH&nbsp;SAID</td>
+	
+													<td x:str>[0293363761/bpk.&nbsp;wawa/085643650000]&nbsp;ibu&nbsp;nana/&nbsp;0293363761/&nbsp;pots&nbsp;matot/&nbsp;cp:&nbsp;085643650000&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>22043066_0293363761_VOICE</td>
+	
+													<td x:str>0293363761</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MG1_47_1&nbsp;RN81</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:30:30</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:43:18</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18184396</td>
+	
+													<td x:str>T&nbsp;DWIDJO&nbsp;PRASOJOO</td>
+	
+													<td x:str>[0293365085/Bp&nbsp;Yudi/08122720796]&nbsp;Bp&nbsp;Bangun&nbsp;/&nbsp;0293365085&nbsp;/&nbsp;Telpon&nbsp;TAN&nbsp;/&nbsp;Gaul&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>2</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21835155_0293365085_VOICE</td>
+	
+													<td x:str>0293365085</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MG1_47_1&nbsp;FDK20</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:34:52</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:43:34</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18184626</td>
+	
+													<td x:str>SMK&nbsp;SADYA&nbsp;PRATAMA</td>
+	
+													<td x:str>[146137119326/bp&nbsp;nur&nbsp;khamid/087834335809]&nbsp;internet&nbsp;LOS&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>31886269_146137119326_INTERNET</td>
+	
+													<td x:str>146137119326</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MG-FRAK/10&nbsp;FRAK/D02/01.10</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 12:39:46</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 13:02:32</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;2P&nbsp;/&nbsp;3P&nbsp;Mati&nbsp;Total</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18186953</td>
+	
+													<td x:str>RANJEN</td>
+	
+													<td x:str>[146146109435/ranjen&nbsp;/08170433625]&nbsp;indihome&nbsp;los&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>API97159825</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>32333450_146146109435_INTERNET</td>
+	
+													<td x:str>146146109435</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MUN-FAG/009&nbsp;FAG/D03/009.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 13:23:42</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 13:42:55</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MUN</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;2P&nbsp;/&nbsp;3P&nbsp;Mati&nbsp;Total</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18187625</td>
+	
+													<td x:str>SUPANTO</td>
+	
+													<td x:str>[0286322296/Bu&nbsp;Panto/081804842746]&nbsp;tlp&nbsp;mati&nbsp;total&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21779659_0286322296_VOICE</td>
+	
+													<td x:str>0286322296</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;WS1_47_1&nbsp;RE05</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 13:35:13</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 13:43:29</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>WOS</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18188370</td>
+	
+													<td x:str>TOKO&nbsp;REX&nbsp;COMPUTER</td>
+	
+													<td x:str>[146137100230/rexx/085743749988]&nbsp;minta&nbsp;dipasang&nbsp;useetv.&nbsp;tks&nbsp;[A_IPTV][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>34469732_146137100230_IPTV</td>
+	
+													<td x:str>146137100230</td>
+	
+													<td x:str>IPTV</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MGE-F02/005&nbsp;GCL/F02/005.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 13:48:53</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 14:03:23</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>IPTV&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Perangkat&nbsp;Pelanggan&nbsp;|&nbsp;Perangkat&nbsp;Pelanggan&nbsp;-&nbsp;STB&nbsp;Rusak</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18188991</td>
+	
+													<td x:str>SUGITO&nbsp;DRS</td>
+	
+													<td x:str>[0293363446/sugitoo/085292313505]&nbsp;matot..&nbsp;keluar&nbsp;kdg&nbsp;ada&nbsp;nada&nbsp;..&nbsp;tp&nbsp;tdk&nbsp;bisa&nbsp;nyambung.&nbsp;mhn&nbsp;bantuan..&nbsp;[A_VOICE][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>CF020793</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>21834097_0293363446_VOICE</td>
+	
+													<td x:str>0293363446</td>
+	
+													<td x:str>VOICE</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-MGE-FF/017&nbsp;FF/D01/017.01</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 13:59:51</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 14:23:21</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>VOICE&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;|&nbsp;Jaringan&nbsp;Tdk&nbsp;Bisa&nbsp;Diukur&nbsp;-&nbsp;Telepon&nbsp;mati/Tidak&nbsp;ada&nbsp;nada</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18189176</td>
+	
+													<td x:str>SMP&nbsp;MAARIF&nbsp;KALIBAWANG</td>
+	
+													<td x:str>[146373109130/PAK&nbsp;SAID/085743590217]&nbsp;pelanggan&nbsp;minta&nbsp;petugas&nbsp;datang&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>30746044_146373109130_INTERNET</td>
+	
+													<td x:str>146373109130</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-WOS-FAA515&nbsp;FAA/D05/15.15</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 14:02:32</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 14:23:40</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>WOS</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Perangkat&nbsp;Pelanggan&nbsp;|&nbsp;Perangkat&nbsp;Pelanggan&nbsp;-&nbsp;Petugas&nbsp;Diminta&nbsp;Datang</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18189267</td>
+	
+													<td x:str>MARTINUS</td>
+	
+													<td x:str>[146148109319/MARTINUS/081316781223]&nbsp;GANGGUAN&nbsp;TLP&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>96158342</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>31403551_146148109319_INTERNET</td>
+	
+													<td x:str>146148109319</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Fiber</td>
+	
+													<td x:str>Fiber&nbsp;-&nbsp;ODP-TMG-FAA2/17&nbsp;FAA/KU02/01.17</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 14:03:51</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 14:23:44</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>TEM</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;Tidak&nbsp;Bisa&nbsp;Koneksi</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18190562</td>
+	
+													<td x:str>DARMAWAN&nbsp;BANUAJI</td>
+	
+													<td x:str>[142137100962/DARMAWAN&nbsp;BANUAJI/02933149013]&nbsp;inet&nbsp;dc&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>32769635_142137100962_INTERNET</td>
+	
+													<td x:str>142137100962</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str>Non&nbsp;Fiber&nbsp;-&nbsp;4MG&nbsp;MG1_47_1&nbsp;MRAH04</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 14:23:09</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 14:43:06</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>MGE</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;|&nbsp;Tidak&nbsp;Bisa&nbsp;Browsing&nbsp;-&nbsp;2P&nbsp;/&nbsp;3P&nbsp;Mati&nbsp;Total</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+								<tr>
+	
+													<td x:str>IN18190894</td>
+	
+													<td x:str>AGUS&nbsp;PURNOMO</td>
+	
+													<td x:str>[141138103027/agus/082226865108]&nbsp;inet&nbsp;sering&nbsp;mati&nbsp;[A_INTERNET][DCS]</td>
+	
+													<td x:str>TA&nbsp;HD&nbsp;WITEL&nbsp;JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>RIGHTNOW</td>
+	
+													<td x:num>4</td>
+	
+													<td x:str>4</td>
+	
+													<td x:str>DCS</td>
+	
+													<td x:str>30658650_141138103027_INTERNET</td>
+	
+													<td x:str>141138103027</td>
+	
+													<td x:str>INTERNET</td>
+	
+													<td x:str></td>
+	
+													<td x:str>Silver</td>
+	
+													<td x:str>Copper</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 14:28:35</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>BACKEND</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+														<td x:str>18-07-2017 14:43:05</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+													<td x:str>PWJ</td>
+	
+													<td x:str>JATENG&nbsp;SELATAN&nbsp;&#040;MAGELANG&#041;</td>
+	
+													<td x:str>REG-4</td>
+	
+													<td x:str>INTERNET&nbsp;|&nbsp;Teknis&nbsp;|&nbsp;Perangkat&nbsp;Pelanggan&nbsp;|&nbsp;Perangkat&nbsp;Pelanggan&nbsp;-&nbsp;Petugas&nbsp;Diminta&nbsp;Datang</td>
+	
+													<td x:str></td>
+	
+													<td x:str></td>
+	
+	 									</tr>
+		
+					</table>
+				</body>
+			</html>

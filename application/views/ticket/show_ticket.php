@@ -28,9 +28,10 @@ function deldata() {
           <div class="box-body">
             <h4>Navigasi</h4><hr>
             <?php if($subjudul != 'Daftar Semua Ticket') { ?><a href="<?php echo base_url() ?>Ticket/showAllTicket/4"><button type="button" class="btn btn-primary">Lihat Semua Ticket</button></a> <?php } ?>
-            <?php if($subjudul != 'Unclosed Ticket') { ?><a href="<?php echo base_url() ?>Ticket/showAllTicket/1"><button type="button" class="btn btn-danger">Lihat Unclosed Ticket</button></a><?php } ?>
-            <?php if($subjudul != 'Closed Ticket') { ?><a href="<?php echo base_url() ?>Ticket/showAllTicket/2"><button type="button" class="btn btn-success">Lihat Komplain Closed Ticket</button></a><?php } ?>
-            <?php if($subjudul != 'Pending Ticket') { ?><a href="<?php echo base_url() ?>Ticket/showAllTicket/3"><button type="button" class="btn btn-warning">Lihat Pending Ticket</button></a><?php } ?>    
+            <?php if($subjudul != 'Unclosed Ticket') { ?><a href="<?php echo base_url() ?>Ticket/showAllTicket/1"><button type="button" class="btn btn-danger">Lihat Open Ticket</button></a><?php } ?>
+            <?php if($subjudul != 'Closed Ticket Hari ini') { ?><a href="<?php echo base_url() ?>Ticket/showAllTicket/2"><button type="button" class="btn btn-success">Lihat Closed Ticket</button></a><?php } ?>
+            <?php if($subjudul != 'Pending Ticket') { ?><a href="<?php echo base_url() ?>Ticket/showAllTicket/3"><button type="button" class="btn btn-warning">Lihat Pending Ticket</button></a><?php } ?>   
+ <?php if($subjudul != 'Closed Ticket All') { ?><a href="<?php echo base_url() ?>Ticket/showAllTicket/4"><button type="button" class="btn btn-success">Lihat Closed All Ticket</button></a><?php } ?>    
             <br><br>
           </div>
         </div>

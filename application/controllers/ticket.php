@@ -38,6 +38,82 @@ class Ticket extends CI_Controller {
         $data['list'] = $this->Ticket_model->showPendingTicket();
         $data['subjudul'] = 'Pending Ticket';
       }
+	  else if($status == '4'){
+        $data['list'] = $this->Ticket_model->showClosedallTicket();
+        $data['subjudul'] = 'Closed Ticket All';
+      }
+	  else if($status == '5'){
+        $data['list'] = $this->Ticket_model->showClosedTicketmea();
+        $data['subjudul'] = 'Closed Ticket MEA';
+      }
+	  else if($status == '6'){
+        $data['list'] = $this->Ticket_model->showClosedTicketmun();
+        $data['subjudul'] = 'Closed Ticket Muntilan';
+      }
+	  else if($status == '7'){
+        $data['list'] = $this->Ticket_model->showClosedTickettem();
+        $data['subjudul'] = 'Closed Ticket TEM';
+      }
+	  else if($status == '8'){
+        $data['list'] = $this->Ticket_model->showClosedTicketkbm();
+        $data['subjudul'] = 'Closed Ticket Kebumen';
+      }
+	  else if($status == '9'){
+        $data['list'] = $this->Ticket_model->showClosedTicketpwr();
+        $data['subjudul'] = 'Closed Ticket Purworejo';
+      }
+	  else if($status == '10'){
+        $data['list'] = $this->Ticket_model->showClosedTicketwos();
+        $data['subjudul'] = 'Closed Ticket Wonosobo';
+      }
+	  else if($status == '11'){
+        $data['list'] = $this->Ticket_model->showopenTicketmea();
+        $data['subjudul'] = 'Open Ticket MEA Magelang';
+      }
+	  else if($status == '12'){
+        $data['list'] = $this->Ticket_model->showopenTicketmun();
+        $data['subjudul'] = 'Open Ticket Muntilan';
+      }
+	  else if($status == '13'){
+        $data['list'] = $this->Ticket_model->showopenTickettem();
+        $data['subjudul'] = 'Open Ticket Temanggung';
+      }
+	  else if($status == '14'){
+        $data['list'] = $this->Ticket_model->showopenTicketpwr();
+        $data['subjudul'] = 'Open Ticket Purworejo';
+      }
+	  else if($status == '15'){
+        $data['list'] = $this->Ticket_model->showopenTicketkbm();
+        $data['subjudul'] = 'Open Ticket Kebumen';
+      }
+	  else if($status == '16'){
+        $data['list'] = $this->Ticket_model->showopenTicketwos();
+        $data['subjudul'] = 'Open Ticket Wonosobo';
+      }
+	   else if($status == '17'){
+        $data['list'] = $this->Ticket_model->showpendingTicketmea();
+        $data['subjudul'] = 'Pending Ticket MEA Magelang';
+      }
+	  else if($status == '18'){
+        $data['list'] = $this->Ticket_model->showpendingTicketmun();
+        $data['subjudul'] = 'Pending Ticket Muntilan';
+      }
+	  else if($status == '19'){
+        $data['list'] = $this->Ticket_model->showpendingTickettem();
+        $data['subjudul'] = 'Pending Ticket Temanggung';
+      }
+	  else if($status == '20'){
+        $data['list'] = $this->Ticket_model->showpendingTicketpwr();
+        $data['subjudul'] = 'Pending Ticket Purworejo';
+      }
+	  else if($status == '21'){
+        $data['list'] = $this->Ticket_model->showpendingTicketkbm();
+        $data['subjudul'] = 'Pending Ticket Kebumen';
+      }
+	  else if($status == '22'){
+        $data['list'] = $this->Ticket_model->showpendingTicketwos();
+        $data['subjudul'] = 'Pending Ticket Wonosobo';
+      }
       else{
         $data['list'] = $this->Ticket_model->showAllTicket();
         $data['subjudul'] = 'Daftar Semua Ticket';
